@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define MAX 100
+#define MAX 1000
 int main(void)
 {
-	int n;
+	int n; //this IS A VARIABLE
 	int i, j, k, count;
 	bool state=true;
 	int answer=0, pre;
